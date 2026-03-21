@@ -29,8 +29,7 @@
 
 ---
 ## 🚀 Projects
-
-* 📝 Diary App (Spring Boot + PostgreSQL + JWT Authentication)
+📝 Diary App (JWT Authentication)
 
 
 ## 📊 GitHub Stats
