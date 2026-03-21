@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 * 2nd Year 
 * Learning **Java Backend Development (Spring Boot)**
@@ -23,24 +23,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushiii24&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushiii24&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ayushiii24&theme=tokyonight"/>
 </p>
 
 ---
