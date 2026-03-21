@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hey 👋, I'm Ayushi</h1>
 <h3 align="center">Aspiring Backend Developer </h3>
 
@@ -10,14 +9,14 @@
 
 ## 🧠 About Me
 
-* 🎓 2nd Year 
-* 💻 Learning **Java Backend Development (Spring Boot)**
-* 🌱 Currently learning: APIs, Authentication (JWT), Databases
-* ✍️ I also love writing poems & creative stuff
+* 2nd Year 
+* Learning **Java Backend Development (Spring Boot)**
+* Currently learning: APIs, Authentication (JWT), Databases
+* ✍️ I also love writing poems & creative stuff :)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -28,9 +27,6 @@
 
 
 ---
-## 🚀 Projects
-📝 Diary App (JWT Authentication)
-
 
 ## 📊 GitHub Stats
 
