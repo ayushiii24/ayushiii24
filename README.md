@@ -12,7 +12,7 @@
 * 2nd Year 
 * Learning **Java Backend Development (Spring Boot)**
 * Currently learning: APIs, Authentication (JWT), Databases
-* ✍️ I also love writing poems & creative stuff :)
+* I also love writing poems & creative stuff :)
 
 ---
 
