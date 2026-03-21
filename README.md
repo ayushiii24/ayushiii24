@@ -1,4 +1,64 @@
 ## Hi there 👋
+<h1 align="center">Hey 👋, I'm Ayushi</h1>
+<h3 align="center">Aspiring Backend Developer </h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=6A5ACD&center=true&vCenter=true&lines=Java+%7C+Spring+Boot+Learner;Future+Backend+Engineer;Building+Projects+%26+Skills+Daily" />
+</p>
+
+---
+
+## 🧠 About Me
+
+* 🎓 2nd Year 
+* 💻 Learning **Java Backend Development (Spring Boot)**
+* 🚀 Goal: Become a **job-ready developer in 3 years**
+* 🌱 Currently learning: APIs, Authentication (JWT), Databases
+* ✍️ I also love writing poems & creative stuff
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Projects
+
+* 📝 Diary App (JWT Authentication)
+* 🌐 Future: Full Stack Projects
+* ⚙️ Backend APIs (Coming soon...)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+
+<p align="center">
+  ⭐ "Consistency > Motivation"
+</p>
+
 
 <!--
 **ayushiii24/ayushiii24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
