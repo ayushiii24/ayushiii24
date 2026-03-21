@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Backend Developer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6A5ACD&center=true&vCenter=true&lines=Java+%7C+Spring+Boot+Learner;Future+Backend+Engineer;Building+Projects+%26+Skills+Daily" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=6A5ACD&center=true&vCenter=true&lines=Java+%7C+Spring+Boot;" />
 </p>
 
 ---
