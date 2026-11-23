@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Backend Developer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6A5ACD&center=true&vCenter=true&lines=React+%7C+TypeScript;Node.js+%7C+Express;Building+Full-Stack+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=6A5ACD&center=true&vCenter=true&lines=React+%7C+TypeScript;Node.js+%7C+Express" />
 </p>
 
 ---
